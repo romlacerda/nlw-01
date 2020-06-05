@@ -8,7 +8,7 @@ EColeta is an app that helps you to protect the environment. You can create or l
 
 
 Technologies
-<hr>
+<br />
 - Typescript
 - ReactJS
 - React Native
