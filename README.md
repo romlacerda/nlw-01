@@ -3,6 +3,10 @@
 ![Home](https://user-images.githubusercontent.com/17368983/83911221-483f2780-a742-11ea-8691-3e46f75310c2.png)
 ![Cadastro](https://user-images.githubusercontent.com/17368983/83911274-5f7e1500-a742-11ea-8ef7-150dc9aa78b7.png)
 
+![Home (1)](https://user-images.githubusercontent.com/17368983/83916472-a15f8900-a74b-11ea-842b-0418845914fb.png)
+![Início](https://user-images.githubusercontent.com/17368983/83916466-9efd2f00-a74b-11ea-9b73-a9ae752b49a4.png)
+![Detalhes](https://user-images.githubusercontent.com/17368983/83916478-a3294c80-a74b-11ea-906e-68d43361431f.png)
+
 ## Overview
 EColeta is an app that helps you to protect the environment. You can create or look for recyclable garbage collection points all over the world.
 
