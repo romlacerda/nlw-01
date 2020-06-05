@@ -16,4 +16,39 @@ Technologies
 - Expo
 - Leaflet
 - Axios
+
+Instructions
+
+We have some specific instructions to run Back-end, web and mobile applications. * Make sure that you have npm installed * Please, follow it:
+
+Back-end (server folder)
+- Open the terminal
+- Go to root of server folder
+- Run $ npm i
+- Run $ npm run dev
+
+Web (web folder)
+- Open the terminal
+- Go to root of web folder
+- Run $ npm i
+- Run $ npm start
+
+Mobile (mobile folder)
+- Install expo
+- Open the terminal
+- Go to root of mobile folder
+- Run $ npm i
+- Run expo start
+- Get your cellphone
+- Download expo from store
+- Open the camera
+- Use the QR Code from browser expo page openned
+
+The project was made in Next Level Week by Rocketseat.
+
+I hope you enjoy it.
+
+
+
+
 and others...
