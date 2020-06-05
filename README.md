@@ -6,7 +6,9 @@
 <b>Overview</b>
 EColeta is an app that helps you to protect the environment. You can create or look for recyclable garbage collection points all over the world.
 
+
 Technologies
+<hr>
 - Typescript
 - ReactJS
 - React Native
@@ -18,7 +20,7 @@ Technologies
 - Axios
 
 Instructions
-
+<hr>
 We have some specific instructions to run Back-end, web and mobile applications. * Make sure that you have npm installed * Please, follow it:
 
 Back-end (server folder)
