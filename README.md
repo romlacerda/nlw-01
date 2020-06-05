@@ -3,12 +3,12 @@
 ![Home](https://user-images.githubusercontent.com/17368983/83911221-483f2780-a742-11ea-8691-3e46f75310c2.png)
 ![Cadastro](https://user-images.githubusercontent.com/17368983/83911274-5f7e1500-a742-11ea-8ef7-150dc9aa78b7.png)
 
-<b>Overview</b>
+**Overview
 EColeta is an app that helps you to protect the environment. You can create or look for recyclable garbage collection points all over the world.
 
 
-Technologies
-<br />
+# Technologies
+
 - Typescript
 - ReactJS
 - React Native
@@ -19,23 +19,23 @@ Technologies
 - Leaflet
 - Axios
 
-Instructions
-<hr>
+# Instructions
+
 We have some specific instructions to run Back-end, web and mobile applications. * Make sure that you have npm installed * Please, follow it:
 
-Back-end (server folder)
+# Back-end (server folder)
 - Open the terminal
 - Go to root of server folder
 - Run $ npm i
 - Run $ npm run dev
 
-Web (web folder)
+# Web (web folder)
 - Open the terminal
 - Go to root of web folder
 - Run $ npm i
 - Run $ npm start
 
-Mobile (mobile folder)
+# Mobile (mobile folder)
 - Install expo
 - Open the terminal
 - Go to root of mobile folder
