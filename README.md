@@ -23,19 +23,19 @@ EColeta is an app that helps you to protect the environment. You can create or l
 
 We have some specific instructions to run Back-end, web and mobile applications. * Make sure that you have npm installed * Please, follow it:
 
-# Back-end (server folder)
+## Back-end (server folder)
 - Open the terminal
 - Go to root of server folder
 - Run $ npm i
 - Run $ npm run dev
 
-# Web (web folder)
+## Web (web folder)
 - Open the terminal
 - Go to root of web folder
 - Run $ npm i
 - Run $ npm start
 
-# Mobile (mobile folder)
+## Mobile (mobile folder)
 - Install expo
 - Open the terminal
 - Go to root of mobile folder
